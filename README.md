@@ -37,8 +37,6 @@ Clone or open the notebook
 
 Open the Colab file:
 
-[(https://colab.research.google.com/github/Eachspear/Build-Your-Own-SQL-Agent/blob/main/SQL_Agent.ipynb)]
-
 2️⃣ Install dependencies
 !pip install -U google-generativeai tabulate --quiet
 
